@@ -1,0 +1,43 @@
+body {
+   font-family: 'Oswald', sans-serif;
+   font-family: 'Roboto', sans-serif;
+}
+
+main {
+   margin-top:3.6rem;
+}
+
+a {
+   font-family: 'Roboto', sans-serif;
+   color:#000850;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   color:#000850;
+   font-family: 'Oswald', sans-serif;
+}
+
+input {
+   width: 100%;
+}
+
+p {
+   font-family: 'Roboto', sans-serif;
+}
+
+textarea {
+   width: 100%;
+}
+.footer-p {
+   font-size: 0.75rem;
+   margin-bottom:0;
+   margin-top:0;
+}
+
+.label-class {
+   font-weight: bold;
+}
+
+.td-class {
+float: right;
+}
